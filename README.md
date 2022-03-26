@@ -1,6 +1,6 @@
 HeadingHere is now established project making company that provide project in adorable price.
 
-#For buying project for your school and college, visit:
+#Buying project for your school and college projects, visit:
 
 https://headinghere.github.io/headinghere
 
