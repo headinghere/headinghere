@@ -1,16 +1,17 @@
 {
   "files": {
     "main.css": "/headinghere/static/css/main.946a7876.css",
-    "main.js": "/headinghere/static/js/main.75d04cf5.js",
+    "main.js": "/headinghere/static/js/main.178230ab.js",
     "static/js/787.82697961.chunk.js": "/headinghere/static/js/787.82697961.chunk.js",
+    "static/media/ludo_offline.zip": "/headinghere/static/media/ludo_offline.86d6acee85ccb9fd8c62.zip",
     "static/media/project.jpg": "/headinghere/static/media/project.7a6fd5e5e7109de73aa5.jpg",
     "index.html": "/headinghere/index.html",
     "main.946a7876.css.map": "/headinghere/static/css/main.946a7876.css.map",
-    "main.75d04cf5.js.map": "/headinghere/static/js/main.75d04cf5.js.map",
+    "main.178230ab.js.map": "/headinghere/static/js/main.178230ab.js.map",
     "787.82697961.chunk.js.map": "/headinghere/static/js/787.82697961.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.946a7876.css",
-    "static/js/main.75d04cf5.js"
+    "static/js/main.178230ab.js"
   ]
 }
